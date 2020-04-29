@@ -1,0 +1,25 @@
+{
+  "name": "kukutiti-server",
+  "version": "1.0.0",
+  "description": "Server application in NodeJS(express) for kukutiti",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "NodeJS",
+    "RESTful"
+  ],
+  "author": "John Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  }
+}

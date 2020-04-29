@@ -1,0 +1,19 @@
+### Install VSCode route rest plugin for this function
+
+GET http://localhost:3001/subscribers/test
+
+### Test Get
+
+GET http://localhost:3001/subscribers
+
+### Test post
+
+POST http://localhost:3001/subscribers/
+Content-Type: application/json
+
+{
+  "name": "Huanzhu",
+  "subscribedToChannel": "Wu A Ge"
+}
+
+### More!
