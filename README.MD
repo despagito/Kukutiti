@@ -1,4 +1,6 @@
+## About
 
+Kukutiti is a project that helps me showcase my skills in full stack development.
 
 ## Plan
 
