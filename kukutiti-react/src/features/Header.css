@@ -1,0 +1,16 @@
+.header{
+    height: 60px;
+    background: #ccc;
+    display: flex;
+    justify-content: center;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.header ul li {
+    margin: 0 2rem;
+    cursor: pointer;
+}

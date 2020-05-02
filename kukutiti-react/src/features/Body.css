@@ -1,0 +1,19 @@
+.body {
+    background: #eee;
+    height: 800px;
+}
+
+.body ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.body ul li {
+    display: flex;
+    flex-direction: row;
+}
+
+.body ul li img {
+    margin: 10px;
+}
